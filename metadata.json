@@ -1,0 +1,5 @@
+{
+  "name": "FiveM ESX Server UI",
+  "description": "A sleek, modern UI system for FiveM ESX servers featuring player stats, vehicle spawning, teleportation, weapons, and VIP features.",
+  "requestFramePermissions": []
+}
